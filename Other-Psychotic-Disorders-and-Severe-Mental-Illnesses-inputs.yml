@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/other-psychotic-disorders-and-severe-mental-illnesses-xacute---primary.py
+inputModule3:
+  class: File
+  path: python/reactive-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule4:
+  class: File
+  path: python/current-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule5:
+  class: File
+  path: python/other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule6:
+  class: File
+  path: python/early-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule7:
+  class: File
+  path: python/nonorganic-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule8:
+  class: File
+  path: python/other-psychotic-disorders-and-severe-mental-illnesses-depre---primary.py
+inputModule9:
+  class: File
+  path: python/psychogenic-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule10:
+  class: File
+  path: python/affective-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule11:
+  class: File
+  path: python/paranoid-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule12:
+  class: File
+  path: python/other-psychotic-disorders-and-severe-mental-illnesses-psychosis---primary.py
+inputModule13:
+  class: File
+  path: python/other-psychotic-disorders-and-severe-mental-illnesses-specified---primary.py
+inputModule14:
+  class: File
+  path: python/other-psychotic-disorders-and-severe-mental-illnesses-schizophrenialike---primary.py
+inputModule15:
+  class: File
+  path: python/other-psychotic-disorders-and-severe-mental-illnesses-hypomania---primary.py
+inputModule16:
+  class: File
+  path: python/manic-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule17:
+  class: File
+  path: python/delusional-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule18:
+  class: File
+  path: python/single-other-psychotic-disorders-and-severe-mental-illnesses---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
